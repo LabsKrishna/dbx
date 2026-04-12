@@ -22,7 +22,7 @@ Rule: every meaningful code, API, behavior, doc, or file change must be appended
 
 ## 2026-04-09 time 10:05pm
 
-## added by Biraj
+## added
 
 -created test-agent-simulation.js to see can real agents actually use this?
 How would an agent interact in a realistic loop?
